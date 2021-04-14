@@ -8,8 +8,8 @@ Date - 14th April 2021
     This Case Study deals with the Regression problem to predict the variable G3 from the given datasource.
 
 ## Files in the Folder
-ipynb - it is the solution file for the Datasets to predict the target variable G3
-dataset - there is one datasets - student-mat.csv
+ - ipynb - it is the solution file for the Datasets to predict the target variable G3
+ - dataset - there is one datasets - student-mat.csv
 
 #### Dataset
 #### This project is meant to explore, analyse, visualize and predict the sales of the store:
